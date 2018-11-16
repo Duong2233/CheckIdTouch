@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name         = "TouchId"
-  s.version      = "0.0.2"
+  s.name         = "CheckIdTouch"
+  s.version      = "0.0.4"
   s.summary      = "Touch ID Plugin"
   s.description  = " provider Check Touch ID plugin"
 
