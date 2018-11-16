@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
    s.platform     = :ios, "8.0"
    s.swift_version = "4.2" 
-   s.source_files  = "TouchId", "TouchId/**/*.{h,m,swift}"
+   s.source_files  = "CheckIdTouch", "CheckIdTouch/**/*.{h,m,swift}"
   s.exclude_files = "Classes/Exclude"
 
  
